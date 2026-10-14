@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-audi-0013.jpg
+Ruta del archivo: C:\Gpo3H-IA_0013\VA_0013\p1-act1-0013\p1-act1-0013\img-original-0013\img-audi-0013.jpg
+Formato por extension: .JPG
+Tamano en bytes: 39598
+Tamano en KB: 38.67
+Tamano en MB: 0.0378
+
+DIMENSIONES
+-----------
+Ancho: 738 pixeles
+Alto: 414 pixeles
+Resolucion: 738 x 414
+Total de pixeles: 305,532
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 102.07
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 107.19
+Verde (G): 100.23
+Rojo (R): 98.80
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
